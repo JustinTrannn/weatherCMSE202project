@@ -17,5 +17,5 @@ We will create a When2Meet and figure out a day and place to meet! Possible loca
 Three Short Term Goals:
 
 1.) Start creating a plan to what models we want to make and how we will execute them.
-2.) Find datasets to use
+2.) Find accurate datasets to use
 3.) Assign parts to everyone for each model

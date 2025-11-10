@@ -19,3 +19,5 @@ Three Short Term Goals:
 1.) Start creating a plan to what models we want to make and how we will execute them.
 2.) Find accurate datasets to use
 3.) Assign parts to everyone for each model
+
+Data set from NOAA: https://www.ncei.noaa.gov/stormevents/ftp.jsp

@@ -6,6 +6,7 @@ The other files, ie RandomForest, LinearRegression, MultipleRegression contain t
 ### Group Members
 1. Max Mccort
 2. Tanusree Makwana
-3. Cora Mitchell
+   Did the multiple regression model to find variable combinations that produced significant or surprising results not visible from the raw data alone. I also completed the method, results, and discussion for this analysis.
+4. Cora Mitchell
    Did the logistic regression model, including exploration of what can be predicted and the most significant predictors for those variables. Wrote the methods, results and discussion for the logistic regression.
 5. Maggie Peterson

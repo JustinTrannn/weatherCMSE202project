@@ -11,3 +11,4 @@ The other files, ie RandomForest, LinearRegression, MultipleRegression contain t
    Did the logistic regression model, including exploration of what can be predicted and the most significant predictors for those variables. Wrote the methods, results and discussion for the model.
 4. Maggie Peterson
 5. Justin Tran
+   Did random forest model by cleaning data. Dropping features with lots of missing data and useless columns. Also feature engineered new features to help the model predict the target.

@@ -10,5 +10,6 @@ The other files, ie RandomForest, LinearRegression, MultipleRegression contain t
 3. Cora Mitchell
    Did the logistic regression model, including exploration of what can be predicted and the most significant predictors for those variables. Wrote the methods, results and discussion for the model.
 4. Maggie Peterson
+   Cleaned up parts of the data in the random forest model. rebuilt the random forest model using the corrected features to get a more accurate MAE 
 5. Justin Tran
    Did random forest model by cleaning data. Dropping features with lots of missing data and useless columns. Also feature engineered new features to help the model predict the target.

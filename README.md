@@ -4,7 +4,8 @@ The code for all the models is compiled in the "All Code" file.
 The other files, ie RandomForest, LinearRegression, MultipleRegression contain the same code as the "All Code" but may also include exploratory code that we decided wasn't necessary or significant to include in the compiled file.
 
 ### Group Members
-1. Max Mccort
+1. Max Mccort 
+   Built the Random Forest model by creating the train/test split and engineering the “Tomorrow Max Temp” target. Used numerical weather features to train the model and compared its performance to a simple baseline that predicted tomorrow’s temperature from today’s. 
 2. Tanusree Makwana
    Did the multiple regression model to find variable combinations that produced significant or surprising results not visible from the raw data alone. I also completed the method, results, and discussion for this analysis.
 3. Cora Mitchell

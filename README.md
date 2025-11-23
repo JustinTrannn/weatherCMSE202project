@@ -1,7 +1,7 @@
 ### Weather Forecasting Project
 
 The code for all the models is compiled in the "All Code" file. 
-The other files, ie RandomForest, LinearRegression, MultipleRegression contain the same code as the "All Code" but may also include exploratory code that we decided wasn't necessary or significant to include in the compiled file.
+The other files, ie RandomForest, LogisticRegression, MultipleRegression contain the same code as the "All Code" but may also include exploratory code that we decided wasn't necessary or significant to include in the compiled file.
 
 ### Group Members
 1. Max Mccort 
